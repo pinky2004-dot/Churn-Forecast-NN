@@ -57,6 +57,7 @@ I evaluated multiple model configurations by adjusting optimizers, hidden layers
 ### Final Model Selection
 
 ❌ Models 12 - 14 were discarded due to clear overfitting issues.
+
 ✅ Models 1, 3, and 9 performed well, with Model 9 being the best choice.
 
 - Model 9 had the best recall (0.858) while maintaining high precision and accuracy.
